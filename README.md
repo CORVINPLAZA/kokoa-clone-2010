@@ -1,3 +1,3 @@
 # KoKoa Clone 2020 Udate
 
-Css got so much better!
+HTML & Css got so much better!
